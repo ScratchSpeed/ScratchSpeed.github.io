@@ -1,0 +1,11 @@
+:root {
+    --theme-color: #ffee50;
+    --theme-light: #ffffff;
+    --theme-dark: #2c3e50;
+}
+
+/* normal css */
+body {
+    background-color: var(--theme-dark);
+    color: var(--theme-light);
+}
